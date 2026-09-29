@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 616" role="img" aria-labelledby="nt nd" font-family="Georgia, 'Times New Roman', serif">
+<title id="nt">Notícia de jornal: Os teus doces de Halloween podem estar a matar orangotangos</title>
+<desc id="nd">Notícia adaptada e traduzida para fins didáticos a partir de um artigo do HuffPost (18 de outubro de 2016). Inclui ilustração de floresta tropical ao lado de uma plantação de palmeira-dendém, com um orangotango numa árvore.</desc>
+<defs>
+<filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="3"/><feColorMatrix values="0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.25  0 0 0 .07 0"/><feComposite in2="SourceGraphic" operator="in"/></filter>
+<clipPath id="ph"><rect x="36" y="262" width="540" height="300"/></clipPath>
+</defs>
+<path d="M6 8 L890 4 L896 600 L872 594 L846 610 L831 592 L814 601 L799 606 L779 591 L763 603 L736 592 L715 592 L688 591 L671 597 L656 608 L630 591 L609 591 L591 599 L564 594 L547 608 L524 607 L505 593 L485 601 L468 607 L452 608 L437 609 L417 605 L390 614 L366 604 L338 601 L315 597 L296 612 L275 592 L252 606 L223 600 L195 599 L179 593 L149 603 L130 614 L106 594 L77 603 L62 611 L46 614 L22 600 L8 609 L8 606 Z" fill="#f3ecdc"/>
+<path d="M6 8 L890 4 L896 600 L872 594 L846 610 L831 592 L814 601 L799 606 L779 591 L763 603 L736 592 L715 592 L688 591 L671 597 L656 608 L630 591 L609 591 L591 599 L564 594 L547 608 L524 607 L505 593 L485 601 L468 607 L452 608 L437 609 L417 605 L390 614 L366 604 L338 601 L315 597 L296 612 L275 592 L252 606 L223 600 L195 599 L179 593 L149 603 L130 614 L106 594 L77 603 L62 611 L46 614 L22 600 L8 609 L8 606 Z" fill="#f3ecdc" filter="url(#grain)"/>
+<text x="450" y="64" text-anchor="middle" font-size="46" font-weight="700" fill="#1d1a15" letter-spacing="2">Diário da Floresta</text>
+<line x1="36" y1="80" x2="864" y2="80" stroke="#1d1a15" stroke-width="2"/><line x1="36" y1="84" x2="864" y2="84" stroke="#1d1a15" stroke-width=".8"/>
+<text x="36" y="101" font-size="12" fill="#3b352c" font-family="Arial, sans-serif" letter-spacing="1">EDIÇÃO ESCOLAR · N.º 27</text>
+<text x="450" y="101" text-anchor="middle" font-size="12" fill="#3b352c" font-family="Arial, sans-serif" letter-spacing="1">ADAPTADO DE HUFFPOST · 18 DE OUTUBRO DE 2016</text>
+<text x="864" y="101" text-anchor="end" font-size="12" fill="#3b352c" font-family="Arial, sans-serif" letter-spacing="1">CIÊNCIA E AMBIENTE</text>
+<line x1="36" y1="110" x2="864" y2="110" stroke="#1d1a15" stroke-width=".8"/>
+<text font-size="38" font-weight="700" fill="#1d1a15"><tspan x="36" y="160">Os teus doces de Halloween podem</tspan><tspan x="36" y="204">estar a matar orangotangos</tspan></text>
+<text font-size="17" font-style="italic" fill="#4a4336"><tspan x="36" y="236">Conservacionistas pedem atenção aos doces que escolhemos. Mas o que tem uma coisa a ver com a outra?</tspan></text>
+<g clip-path="url(#ph)">
+<rect x="36" y="262" width="540" height="300" fill="#cfe0d2"/>
+<rect x="36" y="262" width="540" height="130" fill="#e6efe4"/>
+<circle cx="20" cy="355" r="43" fill="#6f9a78"/>
+<circle cx="57" cy="361" r="48" fill="#6f9a78"/>
+<circle cx="95" cy="348" r="38" fill="#6f9a78"/>
+<circle cx="129" cy="363" r="48" fill="#6f9a78"/>
+<circle cx="172" cy="353" r="37" fill="#6f9a78"/>
+<circle cx="222" cy="357" r="53" fill="#6f9a78"/>
+<circle cx="264" cy="349" r="41" fill="#6f9a78"/>
+<circle cx="306" cy="346" r="42" fill="#6f9a78"/>
+<circle cx="348" cy="352" r="44" fill="#6f9a78"/>
+<circle cx="387" cy="355" r="45" fill="#6f9a78"/>
+<circle cx="432" cy="365" r="38" fill="#6f9a78"/>
+<circle cx="476" cy="358" r="57" fill="#6f9a78"/>
+<circle cx="526" cy="351" r="43" fill="#6f9a78"/>
+<circle cx="567" cy="354" r="51" fill="#6f9a78"/>
+<circle cx="603" cy="355" r="53" fill="#6f9a78"/>
+<circle cx="20" cy="404" r="51" fill="#4f7e5c"/>
+<circle cx="63" cy="392" r="58" fill="#4f7e5c"/>
+<circle cx="110" cy="405" r="55" fill="#4f7e5c"/>
+<circle cx="153" cy="400" r="55" fill="#4f7e5c"/>
+<circle cx="192" cy="395" r="49" fill="#4f7e5c"/>
+<circle cx="234" cy="388" r="43" fill="#4f7e5c"/>
+<circle cx="269" cy="406" r="56" fill="#4f7e5c"/>
+<circle cx="311" cy="403" r="58" fill="#4f7e5c"/>
+<circle cx="360" cy="396" r="64" fill="#4f7e5c"/>
+<circle cx="398" cy="392" r="63" fill="#4f7e5c"/>
+<circle cx="434" cy="392" r="55" fill="#4f7e5c"/>
+<circle cx="482" cy="391" r="50" fill="#4f7e5c"/>
+<circle cx="527" cy="409" r="55" fill="#4f7e5c"/>
+<circle cx="579" cy="406" r="52" fill="#4f7e5c"/>
+<circle cx="20" cy="446" r="54" fill="#2f5e40"/>
+<circle cx="57" cy="458" r="49" fill="#2f5e40"/>
+<circle cx="98" cy="460" r="56" fill="#2f5e40"/>
+<circle cx="150" cy="443" r="67" fill="#2f5e40"/>
+<circle cx="187" cy="441" r="58" fill="#2f5e40"/>
+<circle cx="230" cy="436" r="62" fill="#2f5e40"/>
+<circle cx="265" cy="458" r="59" fill="#2f5e40"/>
+<circle cx="301" cy="459" r="57" fill="#2f5e40"/>
+<circle cx="345" cy="446" r="48" fill="#2f5e40"/>
+<circle cx="388" cy="440" r="58" fill="#2f5e40"/>
+<circle cx="435" cy="457" r="67" fill="#2f5e40"/>
+<circle cx="471" cy="455" r="57" fill="#2f5e40"/>
+<circle cx="511" cy="445" r="62" fill="#2f5e40"/>
+<circle cx="549" cy="448" r="56" fill="#2f5e40"/>
+<circle cx="588" cy="454" r="58" fill="#2f5e40"/>
+<rect x="36" y="470" width="540" height="100" fill="#2a4f37"/>
+<rect x="96" y="400" width="10" height="170" fill="#4a3322"/>
+<rect x="176" y="400" width="10" height="170" fill="#4a3322"/>
+<rect x="262" y="400" width="10" height="170" fill="#4a3322"/>
+<rect x="380" y="400" width="10" height="170" fill="#4a3322"/>
+<rect x="470" y="400" width="10" height="170" fill="#4a3322"/>
+<rect x="540" y="400" width="10" height="170" fill="#4a3322"/>
+<path d="M176 408 C 210 400 240 404 268 396" stroke="#4a3322" stroke-width="7" fill="none" stroke-linecap="round"/>
+<g transform="translate(222 404)" fill="#c1601f">
+ <path d="M-4 0 C -8 18 -10 30 -8 44" stroke="#c1601f" stroke-width="7" fill="none" stroke-linecap="round"/>
+ <path d="M16 -2 C 20 16 22 28 20 42" stroke="#c1601f" stroke-width="7" fill="none" stroke-linecap="round"/>
+ <ellipse cx="6" cy="52" rx="20" ry="24"/>
+ <circle cx="6" cy="24" r="12"/>
+ <ellipse cx="6" cy="27" rx="7" ry="6" fill="#e8b08a"/>
+ <circle cx="3" cy="22" r="1.6" fill="#2a1a10"/><circle cx="9" cy="22" r="1.6" fill="#2a1a10"/>
+ <path d="M-8 64 C -12 78 -10 86 -6 92" stroke="#c1601f" stroke-width="7" fill="none" stroke-linecap="round"/>
+ <path d="M20 64 C 24 78 22 86 18 92" stroke="#c1601f" stroke-width="7" fill="none" stroke-linecap="round"/>
+</g>
+</g>
+<rect x="36" y="262" width="540" height="300" fill="none" stroke="#1d1a15" stroke-width="1"/>
+<text x="36" y="580" font-size="12" font-style="italic" fill="#4a4336">Orangotango numa floresta tropical do Bornéu. Ilustração.</text>
+<text x="600" y="272" font-size="14.5" fill="#1d1a15"><tspan x="600" dy="0">No Halloween compram-se doces</tspan><tspan x="600" dy="21">como em nenhuma outra época do</tspan><tspan x="600" dy="21">ano. Mas, segundo jardins</tspan><tspan x="600" dy="21">zoológicos e organizações de</tspan><tspan x="600" dy="21">conservação da natureza, a</tspan><tspan x="600" dy="21">escolha desses doces pode ter</tspan><tspan x="600" dy="21">consequências a milhares de</tspan><tspan x="600" dy="21">quilómetros de distância: nas</tspan><tspan x="600" dy="21">florestas onde vivem os</tspan><tspan x="600" dy="21">orangotangos.</tspan></text><text x="600" y="492" font-size="14.5" fill="#1d1a15"><tspan x="600" dy="0">Continua na página 14 ▸</tspan></text>
+<line x1="588" y1="262" x2="588" y2="570" stroke="#b5aa93" stroke-width=".8"/>
+<text x="600" y="560" font-size="11" fill="#6b6254" font-family="Arial, sans-serif"><tspan x="600" dy="0">Adaptado e traduzido para fins</tspan><tspan x="600" dy="14">didáticos de HuffPost, 18/10/2016.</tspan></text>
+</svg>
